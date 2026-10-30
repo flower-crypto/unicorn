@@ -1,0 +1,401 @@
+customer_key,customer_name,gender,age,segment
+1,Customer_001,Male,65,Consumer
+2,Customer_002,Female,55,Home Office
+3,Customer_003,Female,33,Corporate
+4,Customer_004,Male,64,Consumer
+5,Customer_005,Male,41,Home Office
+6,Customer_006,Female,42,Home Office
+7,Customer_007,Male,38,Consumer
+8,Customer_008,Female,24,Corporate
+9,Customer_009,Male,62,Consumer
+10,Customer_010,Male,18,Home Office
+11,Customer_011,Female,26,Corporate
+12,Customer_012,Female,29,Corporate
+13,Customer_013,Female,31,Consumer
+14,Customer_014,Female,24,Home Office
+15,Customer_015,Female,18,Consumer
+16,Customer_016,Female,50,Consumer
+17,Customer_017,Female,64,Consumer
+18,Customer_018,Male,23,Corporate
+19,Customer_019,Female,32,Consumer
+20,Customer_020,Male,42,Home Office
+21,Customer_021,Female,62,Corporate
+22,Customer_022,Male,51,Consumer
+23,Customer_023,Male,54,Consumer
+24,Customer_024,Female,45,Consumer
+25,Customer_025,Female,38,Corporate
+26,Customer_026,Female,27,Corporate
+27,Customer_027,Male,59,Consumer
+28,Customer_028,Female,56,Corporate
+29,Customer_029,Female,19,Consumer
+30,Customer_030,Male,52,Corporate
+31,Customer_031,Male,22,Home Office
+32,Customer_032,Male,53,Corporate
+33,Customer_033,Male,57,Corporate
+34,Customer_034,Female,24,Corporate
+35,Customer_035,Female,38,Consumer
+36,Customer_036,Male,23,Consumer
+37,Customer_037,Female,45,Consumer
+38,Customer_038,Female,62,Consumer
+39,Customer_039,Male,21,Corporate
+40,Customer_040,Female,37,Corporate
+41,Customer_041,Male,64,Home Office
+42,Customer_042,Female,32,Consumer
+43,Customer_043,Female,24,Corporate
+44,Customer_044,Male,41,Consumer
+45,Customer_045,Male,42,Consumer
+46,Customer_046,Female,49,Corporate
+47,Customer_047,Male,33,Home Office
+48,Customer_048,Female,63,Corporate
+49,Customer_049,Female,43,Consumer
+50,Customer_050,Female,31,Corporate
+51,Customer_051,Female,64,Consumer
+52,Customer_052,Male,62,Home Office
+53,Customer_053,Male,41,Corporate
+54,Customer_054,Male,19,Consumer
+55,Customer_055,Male,46,Consumer
+56,Customer_056,Male,44,Consumer
+57,Customer_057,Female,25,Home Office
+58,Customer_058,Male,48,Consumer
+59,Customer_059,Female,58,Corporate
+60,Customer_060,Female,23,Corporate
+61,Customer_061,Female,52,Corporate
+62,Customer_062,Female,24,Consumer
+63,Customer_063,Male,53,Home Office
+64,Customer_064,Female,38,Consumer
+65,Customer_065,Male,18,Corporate
+66,Customer_066,Male,64,Corporate
+67,Customer_067,Female,25,Corporate
+68,Customer_068,Male,46,Home Office
+69,Customer_069,Male,26,Consumer
+70,Customer_070,Male,62,Consumer
+71,Customer_071,Female,53,Consumer
+72,Customer_072,Male,56,Consumer
+73,Customer_073,Male,38,Consumer
+74,Customer_074,Male,40,Consumer
+75,Customer_075,Female,48,Consumer
+76,Customer_076,Male,55,Consumer
+77,Customer_077,Male,58,Consumer
+78,Customer_078,Male,18,Corporate
+79,Customer_079,Female,49,Corporate
+80,Customer_080,Female,23,Consumer
+81,Customer_081,Female,31,Consumer
+82,Customer_082,Male,57,Consumer
+83,Customer_083,Male,30,Corporate
+84,Customer_084,Female,56,Consumer
+85,Customer_085,Female,40,Consumer
+86,Customer_086,Female,29,Consumer
+87,Customer_087,Male,34,Consumer
+88,Customer_088,Male,43,Consumer
+89,Customer_089,Female,54,Corporate
+90,Customer_090,Female,47,Corporate
+91,Customer_091,Male,62,Corporate
+92,Customer_092,Female,59,Corporate
+93,Customer_093,Female,54,Corporate
+94,Customer_094,Male,46,Consumer
+95,Customer_095,Female,31,Corporate
+96,Customer_096,Male,37,Consumer
+97,Customer_097,Male,23,Consumer
+98,Customer_098,Female,35,Corporate
+99,Customer_099,Female,62,Consumer
+100,Customer_100,Male,38,Consumer
+101,Customer_101,Female,23,Corporate
+102,Customer_102,Male,49,Home Office
+103,Customer_103,Female,64,Home Office
+104,Customer_104,Male,59,Consumer
+105,Customer_105,Female,31,Consumer
+106,Customer_106,Female,39,Corporate
+107,Customer_107,Female,43,Consumer
+108,Customer_108,Female,29,Corporate
+109,Customer_109,Male,30,Consumer
+110,Customer_110,Female,29,Consumer
+111,Customer_111,Male,65,Consumer
+112,Customer_112,Female,53,Corporate
+113,Customer_113,Female,58,Consumer
+114,Customer_114,Male,57,Consumer
+115,Customer_115,Female,64,Consumer
+116,Customer_116,Female,23,Consumer
+117,Customer_117,Male,60,Consumer
+118,Customer_118,Male,21,Corporate
+119,Customer_119,Male,40,Consumer
+120,Customer_120,Male,46,Corporate
+121,Customer_121,Male,35,Home Office
+122,Customer_122,Female,25,Consumer
+123,Customer_123,Female,27,Consumer
+124,Customer_124,Male,57,Corporate
+125,Customer_125,Female,33,Consumer
+126,Customer_126,Female,32,Consumer
+127,Customer_127,Male,62,Home Office
+128,Customer_128,Female,24,Home Office
+129,Customer_129,Female,61,Corporate
+130,Customer_130,Female,62,Consumer
+131,Customer_131,Female,46,Corporate
+132,Customer_132,Female,25,Corporate
+133,Customer_133,Male,25,Consumer
+134,Customer_134,Female,31,Corporate
+135,Customer_135,Female,45,Consumer
+136,Customer_136,Male,25,Consumer
+137,Customer_137,Female,39,Consumer
+138,Customer_138,Male,23,Consumer
+139,Customer_139,Male,43,Consumer
+140,Customer_140,Male,19,Corporate
+141,Customer_141,Female,52,Home Office
+142,Customer_142,Male,20,Corporate
+143,Customer_143,Male,27,Corporate
+144,Customer_144,Male,26,Home Office
+145,Customer_145,Female,57,Consumer
+146,Customer_146,Female,20,Consumer
+147,Customer_147,Male,38,Consumer
+148,Customer_148,Male,46,Consumer
+149,Customer_149,Female,42,Corporate
+150,Customer_150,Male,50,Consumer
+151,Customer_151,Female,56,Consumer
+152,Customer_152,Male,36,Consumer
+153,Customer_153,Female,57,Consumer
+154,Customer_154,Male,33,Home Office
+155,Customer_155,Male,65,Consumer
+156,Customer_156,Female,42,Consumer
+157,Customer_157,Male,53,Consumer
+158,Customer_158,Female,60,Consumer
+159,Customer_159,Female,56,Corporate
+160,Customer_160,Female,58,Consumer
+161,Customer_161,Female,43,Consumer
+162,Customer_162,Female,20,Consumer
+163,Customer_163,Male,41,Corporate
+164,Customer_164,Male,26,Corporate
+165,Customer_165,Male,60,Corporate
+166,Customer_166,Female,29,Corporate
+167,Customer_167,Male,28,Corporate
+168,Customer_168,Male,29,Consumer
+169,Customer_169,Male,48,Consumer
+170,Customer_170,Male,45,Consumer
+171,Customer_171,Male,63,Consumer
+172,Customer_172,Male,37,Corporate
+173,Customer_173,Female,31,Consumer
+174,Customer_174,Female,20,Corporate
+175,Customer_175,Female,18,Home Office
+176,Customer_176,Male,35,Consumer
+177,Customer_177,Female,62,Home Office
+178,Customer_178,Male,43,Corporate
+179,Customer_179,Female,60,Home Office
+180,Customer_180,Female,22,Consumer
+181,Customer_181,Female,22,Consumer
+182,Customer_182,Male,58,Consumer
+183,Customer_183,Male,23,Consumer
+184,Customer_184,Female,20,Consumer
+185,Customer_185,Male,37,Home Office
+186,Customer_186,Male,62,Corporate
+187,Customer_187,Male,51,Consumer
+188,Customer_188,Male,22,Consumer
+189,Customer_189,Male,58,Consumer
+190,Customer_190,Male,58,Consumer
+191,Customer_191,Female,56,Home Office
+192,Customer_192,Female,61,Consumer
+193,Customer_193,Female,29,Consumer
+194,Customer_194,Male,65,Corporate
+195,Customer_195,Female,33,Consumer
+196,Customer_196,Male,56,Consumer
+197,Customer_197,Male,45,Corporate
+198,Customer_198,Male,55,Corporate
+199,Customer_199,Male,48,Home Office
+200,Customer_200,Female,48,Corporate
+201,Customer_201,Male,47,Consumer
+202,Customer_202,Female,55,Corporate
+203,Customer_203,Male,53,Home Office
+204,Customer_204,Female,24,Corporate
+205,Customer_205,Male,57,Home Office
+206,Customer_206,Male,43,Corporate
+207,Customer_207,Female,33,Home Office
+208,Customer_208,Female,42,Consumer
+209,Customer_209,Male,64,Corporate
+210,Customer_210,Female,59,Consumer
+211,Customer_211,Male,58,Corporate
+212,Customer_212,Female,40,Corporate
+213,Customer_213,Female,55,Home Office
+214,Customer_214,Male,36,Home Office
+215,Customer_215,Female,50,Consumer
+216,Customer_216,Male,48,Corporate
+217,Customer_217,Male,29,Corporate
+218,Customer_218,Male,30,Consumer
+219,Customer_219,Male,20,Consumer
+220,Customer_220,Female,24,Consumer
+221,Customer_221,Male,38,Corporate
+222,Customer_222,Male,40,Consumer
+223,Customer_223,Female,25,Home Office
+224,Customer_224,Male,38,Consumer
+225,Customer_225,Female,47,Home Office
+226,Customer_226,Male,29,Consumer
+227,Customer_227,Female,34,Corporate
+228,Customer_228,Female,35,Consumer
+229,Customer_229,Female,42,Corporate
+230,Customer_230,Male,35,Corporate
+231,Customer_231,Male,53,Home Office
+232,Customer_232,Female,33,Corporate
+233,Customer_233,Male,38,Consumer
+234,Customer_234,Female,36,Consumer
+235,Customer_235,Male,26,Consumer
+236,Customer_236,Female,50,Consumer
+237,Customer_237,Female,29,Corporate
+238,Customer_238,Male,32,Corporate
+239,Customer_239,Male,56,Corporate
+240,Customer_240,Female,63,Home Office
+241,Customer_241,Male,50,Corporate
+242,Customer_242,Female,61,Corporate
+243,Customer_243,Male,59,Consumer
+244,Customer_244,Female,41,Consumer
+245,Customer_245,Female,54,Corporate
+246,Customer_246,Male,33,Home Office
+247,Customer_247,Female,40,Consumer
+248,Customer_248,Male,43,Consumer
+249,Customer_249,Female,64,Corporate
+250,Customer_250,Male,58,Consumer
+251,Customer_251,Male,41,Consumer
+252,Customer_252,Male,49,Home Office
+253,Customer_253,Male,27,Corporate
+254,Customer_254,Male,56,Consumer
+255,Customer_255,Female,44,Home Office
+256,Customer_256,Male,43,Consumer
+257,Customer_257,Female,54,Home Office
+258,Customer_258,Male,48,Consumer
+259,Customer_259,Male,21,Corporate
+260,Customer_260,Female,31,Consumer
+261,Customer_261,Female,26,Consumer
+262,Customer_262,Male,53,Home Office
+263,Customer_263,Male,19,Consumer
+264,Customer_264,Female,27,Consumer
+265,Customer_265,Female,46,Consumer
+266,Customer_266,Female,51,Corporate
+267,Customer_267,Male,42,Corporate
+268,Customer_268,Male,59,Home Office
+269,Customer_269,Female,62,Consumer
+270,Customer_270,Female,24,Consumer
+271,Customer_271,Male,63,Consumer
+272,Customer_272,Male,47,Corporate
+273,Customer_273,Male,48,Home Office
+274,Customer_274,Female,22,Corporate
+275,Customer_275,Male,47,Corporate
+276,Customer_276,Male,52,Consumer
+277,Customer_277,Male,45,Home Office
+278,Customer_278,Female,22,Consumer
+279,Customer_279,Male,43,Consumer
+280,Customer_280,Male,62,Consumer
+281,Customer_281,Male,52,Consumer
+282,Customer_282,Male,24,Consumer
+283,Customer_283,Female,64,Consumer
+284,Customer_284,Male,64,Consumer
+285,Customer_285,Male,26,Corporate
+286,Customer_286,Female,56,Consumer
+287,Customer_287,Male,37,Consumer
+288,Customer_288,Female,46,Home Office
+289,Customer_289,Female,39,Corporate
+290,Customer_290,Male,55,Consumer
+291,Customer_291,Female,65,Consumer
+292,Customer_292,Male,56,Home Office
+293,Customer_293,Female,62,Consumer
+294,Customer_294,Male,63,Consumer
+295,Customer_295,Female,22,Home Office
+296,Customer_296,Female,30,Consumer
+297,Customer_297,Female,52,Corporate
+298,Customer_298,Male,46,Corporate
+299,Customer_299,Male,20,Corporate
+300,Customer_300,Male,22,Consumer
+301,Customer_301,Male,42,Consumer
+302,Customer_302,Female,47,Consumer
+303,Customer_303,Male,26,Consumer
+304,Customer_304,Female,26,Home Office
+305,Customer_305,Female,24,Consumer
+306,Customer_306,Male,45,Corporate
+307,Customer_307,Male,18,Corporate
+308,Customer_308,Female,45,Corporate
+309,Customer_309,Male,40,Consumer
+310,Customer_310,Male,40,Consumer
+311,Customer_311,Female,50,Home Office
+312,Customer_312,Female,43,Corporate
+313,Customer_313,Male,52,Corporate
+314,Customer_314,Male,54,Home Office
+315,Customer_315,Male,62,Corporate
+316,Customer_316,Female,56,Consumer
+317,Customer_317,Female,42,Corporate
+318,Customer_318,Female,41,Consumer
+319,Customer_319,Female,29,Corporate
+320,Customer_320,Female,46,Home Office
+321,Customer_321,Male,24,Consumer
+322,Customer_322,Male,62,Consumer
+323,Customer_323,Female,58,Consumer
+324,Customer_324,Female,23,Home Office
+325,Customer_325,Female,55,Consumer
+326,Customer_326,Male,23,Consumer
+327,Customer_327,Male,52,Consumer
+328,Customer_328,Male,22,Consumer
+329,Customer_329,Male,41,Consumer
+330,Customer_330,Female,49,Consumer
+331,Customer_331,Female,52,Consumer
+332,Customer_332,Male,38,Consumer
+333,Customer_333,Male,62,Consumer
+334,Customer_334,Female,55,Consumer
+335,Customer_335,Male,27,Consumer
+336,Customer_336,Female,50,Corporate
+337,Customer_337,Female,53,Consumer
+338,Customer_338,Male,34,Consumer
+339,Customer_339,Male,53,Consumer
+340,Customer_340,Female,61,Consumer
+341,Customer_341,Female,57,Consumer
+342,Customer_342,Male,54,Consumer
+343,Customer_343,Female,48,Home Office
+344,Customer_344,Female,30,Consumer
+345,Customer_345,Female,56,Consumer
+346,Customer_346,Male,35,Consumer
+347,Customer_347,Female,43,Consumer
+348,Customer_348,Female,33,Consumer
+349,Customer_349,Male,33,Corporate
+350,Customer_350,Male,25,Corporate
+351,Customer_351,Female,64,Consumer
+352,Customer_352,Male,25,Consumer
+353,Customer_353,Male,22,Consumer
+354,Customer_354,Male,62,Consumer
+355,Customer_355,Female,44,Corporate
+356,Customer_356,Female,39,Consumer
+357,Customer_357,Male,53,Consumer
+358,Customer_358,Female,36,Home Office
+359,Customer_359,Male,24,Consumer
+360,Customer_360,Female,53,Consumer
+361,Customer_361,Female,26,Corporate
+362,Customer_362,Female,44,Consumer
+363,Customer_363,Male,63,Consumer
+364,Customer_364,Female,62,Consumer
+365,Customer_365,Male,35,Home Office
+366,Customer_366,Female,55,Consumer
+367,Customer_367,Male,47,Consumer
+368,Customer_368,Male,41,Consumer
+369,Customer_369,Male,24,Consumer
+370,Customer_370,Female,36,Corporate
+371,Customer_371,Male,49,Consumer
+372,Customer_372,Female,65,Corporate
+373,Customer_373,Male,18,Corporate
+374,Customer_374,Male,52,Corporate
+375,Customer_375,Female,58,Consumer
+376,Customer_376,Male,63,Home Office
+377,Customer_377,Female,38,Corporate
+378,Customer_378,Female,23,Consumer
+379,Customer_379,Male,31,Corporate
+380,Customer_380,Male,58,Home Office
+381,Customer_381,Male,60,Consumer
+382,Customer_382,Female,48,Home Office
+383,Customer_383,Female,23,Consumer
+384,Customer_384,Male,23,Corporate
+385,Customer_385,Male,40,Home Office
+386,Customer_386,Male,46,Consumer
+387,Customer_387,Male,19,Corporate
+388,Customer_388,Female,50,Consumer
+389,Customer_389,Female,44,Corporate
+390,Customer_390,Male,18,Corporate
+391,Customer_391,Female,22,Consumer
+392,Customer_392,Male,39,Consumer
+393,Customer_393,Male,52,Consumer
+394,Customer_394,Female,57,Consumer
+395,Customer_395,Female,38,Consumer
+396,Customer_396,Female,32,Consumer
+397,Customer_397,Male,64,Consumer
+398,Customer_398,Male,40,Consumer
+399,Customer_399,Male,33,Corporate
+400,Customer_400,Male,39,Corporate

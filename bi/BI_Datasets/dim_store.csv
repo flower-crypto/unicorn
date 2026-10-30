@@ -1,0 +1,9 @@
+store_key,store_name,city,region
+1,Mumbai Store,Mumbai,West
+2,Pune Store,Pune,West
+3,Delhi Store,Delhi,North
+4,Chandigarh Store,Chandigarh,North
+5,Chennai Store,Chennai,South
+6,Bengaluru Store,Bengaluru,South
+7,Kolkata Store,Kolkata,East
+8,Bhubaneswar Store,Bhubaneswar,East

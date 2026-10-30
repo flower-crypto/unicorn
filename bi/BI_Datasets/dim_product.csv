@@ -1,0 +1,13 @@
+product_key,product_name,category,sub_category,unit_price,unit_cost
+1,Laptop,Electronics,Computers,55000,42000
+2,Smartphone,Electronics,Phones,22000,16000
+3,Headphones,Electronics,Accessories,3500,2000
+4,Monitor,Electronics,Computers,12000,8500
+5,Office Chair,Furniture,Chairs,6500,4200
+6,Study Desk,Furniture,Tables,9000,6000
+7,Bookshelf,Furniture,Storage,7500,5000
+8,Sofa Set,Furniture,Chairs,32000,22000
+9,Notebook,Office Supplies,Paper,120,60
+10,Pen Set,Office Supplies,Writing,350,150
+11,Printer Paper,Office Supplies,Paper,450,320
+12,Stapler,Office Supplies,Accessories,250,130
